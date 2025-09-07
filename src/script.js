@@ -133,7 +133,7 @@ document.getElementById('aglaea').addEventListener('click', () => {
     document.getElementById('aglaea').classList.add('active')
     document.getElementById('euphre').classList.remove('active')
     document.getElementById('thalia').classList.remove('active')
-    document.getElementById('content').innerHTML = 'She was venerated as the goddess of beauty, splendor, glory, magnificence, and adornment. She is the youngest of the Charites according to Hesiod. Aglaea is one of three daughters of Zeus and either the Oceanid Eurynome, or of Eunomia, the goddess of good order and lawful conduct.'
+    document.getElementById('content').innerHTML = 'She was venerated as the goddess of beauty, splendor, glory, magnificence, and adornment. She is the youngest of the Charites according to Hesiod. Aglaea is one of daughters of Zeus and either the Oceanid Eurynome, or of Eunomia, the goddess of good order and lawful conduct.'
     animateCamera({ x: 1.9, y: 2.7, z: 2.7 },{ y: 1.1 })
 })
 
